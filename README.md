@@ -58,6 +58,3 @@ The application follows the **MVVM (Model-View-ViewModel)** architectural patter
 ## 📄 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-**Developed with ❤️ by [Uğur Pişkin (ugurrdev)](https://github.com/ugurrdev)**
